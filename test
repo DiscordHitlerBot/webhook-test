@@ -1,1 +1,1 @@
-ЕБАТЬ РАБОТАЕТ ЧТОЛЕ
+git config --global --add safe.directory /var/deno/webhook-test
